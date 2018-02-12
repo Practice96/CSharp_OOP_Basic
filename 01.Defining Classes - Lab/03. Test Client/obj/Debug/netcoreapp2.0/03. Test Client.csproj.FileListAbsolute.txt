@@ -1,0 +1,11 @@
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.deps.json
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.runtimeconfig.json
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.dll
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\bin\Debug\netcoreapp2.0\03. Test Client.pdb
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.csprojResolveAssemblyReference.cache
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.AssemblyInfo.cs
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.dll
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\03. Test Client\obj\Debug\netcoreapp2.0\03. Test Client.pdb

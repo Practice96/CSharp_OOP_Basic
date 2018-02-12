@@ -1,0 +1,10 @@
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.deps.json
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.runtimeconfig.json
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.dll
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\bin\Debug\netcoreapp2.0\04. Person Class.pdb
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.AssemblyInfo.cs
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.dll
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\04. Person Class\obj\Debug\netcoreapp2.0\04. Person Class.pdb

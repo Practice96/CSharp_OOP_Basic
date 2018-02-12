@@ -1,0 +1,11 @@
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.deps.json
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.runtimeconfig.json
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.runtimeconfig.dev.json
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.dll
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\bin\Debug\netcoreapp2.0\02. Bank Account Methods.pdb
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.csprojResolveAssemblyReference.cache
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.csproj.CoreCompileInputs.cache
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.AssemblyInfoInputs.cache
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.AssemblyInfo.cs
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.dll
+C:\Users\Galin\Desktop\C# OOP Basic\01.Defining Classes - Lab\01.Defining Classes - Lab\02. Bank Account Methods\obj\Debug\netcoreapp2.0\02. Bank Account Methods.pdb
